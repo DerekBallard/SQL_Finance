@@ -4,7 +4,7 @@ from sqlalchemy import create_engine, text
 
 # Update with your MySQL user, password, host, port, and database
 user = 'root'
-password = 'Loafy12345$'
+password = '********'
 host = 'localhost'
 port = 3306
 database = 'bank_db'
